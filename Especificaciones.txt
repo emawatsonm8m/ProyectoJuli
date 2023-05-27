@@ -1,1 +1,3 @@
 Archivo de relleno y especificaciones por si a caso
+
+Necesitamos hacer tres tipos de archivo, un css, un php y un html.
